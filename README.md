@@ -100,6 +100,11 @@ raise Exception("""Your license does not allow generating programs with more tha
 ```
 ## Simulation
 
+![p1](https://user-images.githubusercontent.com/94508142/176994624-3c9bcf59-ea2b-4c20-9836-14adc156ee75.png)
+![p2](https://user-images.githubusercontent.com/94508142/176994641-0598018e-76c4-4b95-827e-d699828cf1c5.png)
+![p3](https://user-images.githubusercontent.com/94508142/176994653-ab7b4819-742f-4cad-93e1-c182a1f2420f.png)
+
+
 
  
  
